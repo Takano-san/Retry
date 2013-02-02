@@ -1,4 +1,4 @@
-package jp.co.rkaus.hr;
+package jp.co.rakus.hr;
 
 public class Test {
 
